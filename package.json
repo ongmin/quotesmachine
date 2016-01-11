@@ -1,0 +1,26 @@
+{
+  "name": "quotemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ongmin/quotesmachine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ongmin/quotesmachine/issues"
+  },
+  "homepage": "https://github.com/ongmin/quotesmachine#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "http-server": "^0.8.5",
+    "nodemon": "^1.8.1",
+    "unirest": "^0.4.2"
+  }
+}
